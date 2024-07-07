@@ -1,7 +1,7 @@
 from AdenocarcClassifier.constants import *
 from AdenocarcClassifier.utils.common import read_yaml, create_directories
 from AdenocarcClassifier.entity.config_entity import DataIngestionConfig
-from AdenocarcClassifier import logger
+from AdenocarcClassifier import *
 
 class ConfigurationManager:
     def __init__(

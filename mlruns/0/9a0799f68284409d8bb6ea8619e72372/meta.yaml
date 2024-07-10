@@ -1,0 +1,15 @@
+artifact_uri: file:///F:/NewVolume/MLOPs_Projects/Chest_AdenoCarcinoma/mlruns/0/9a0799f68284409d8bb6ea8619e72372/artifacts
+end_time: 1720632641458
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a0799f68284409d8bb6ea8619e72372
+run_name: omniscient-vole-748
+run_uuid: 9a0799f68284409d8bb6ea8619e72372
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720632624151
+status: 3
+tags: []
+user_id: aasif
